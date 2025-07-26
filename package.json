@@ -1,0 +1,13 @@
+{
+  "name": "geo-mobile-redirect",
+  "version": "0.7.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.58.0"
+  }
+}
